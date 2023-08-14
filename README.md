@@ -5,7 +5,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 My-New-Rails-App](#-about-project-)
+- [📖 Hello-Rails-Backend](#-about-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -25,9 +25,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My-New-Rails-App] <a name="about-project"></a>
+# 📖 [Hello-Rails-Backend] <a name="about-project"></a>
 
-**[My-New-Rails-App]()** is a "Random Greeting App" which is a React-on-rails application that provides users with a dynamic and personalized experience. The app utilizes the power of React Router for seamless navigation. At its core, the app features a Greeting component that displays a warm and friendly greeting message. This greeting message is retrieved from a remote API endpoint by making use of a Redux store, an action, and a reducer. The app's architecture ensures smooth communication with the API, allowing it to fetch a new random greeting each time the Greeting component is rendered. This ensures that users are met with a fresh and unique greeting on every visit. The Random Greeting App aims to enhance user engagement by offering personalized content through an intuitive and well-structured interface.
+**[Hello-Rails-Backend]()** is an api that randomly generates a message each time a user loads the app.
+
+## [Link to the Frontend Component](https://github.com/Bestbynature/greetings-frontend/pull/1)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,8 +49,8 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Random greeting messages]**
-- **[React on rails]**
-- **[Full stack development]**
+- **[Rails API]**
+- **[Backend development]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
